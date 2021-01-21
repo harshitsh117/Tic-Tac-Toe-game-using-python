@@ -3,7 +3,6 @@
 print("Tic-Tac-Toe")
 
 #Importing packages
-from numpy import *
 import random
 import time
 
